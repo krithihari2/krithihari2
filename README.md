@@ -19,7 +19,7 @@ Right now, I’m diving deep into app prototyping and UX/UI design to ensure the
 I’d love to chat about health tech, economics, or any innovative ideas you might have! Feel free to reach out—let’s inspire each other!
 
   Social Media 
-  - [LinkedIn](www.linkedin.com/in/krithi-hari)
+  - [LinkedIn](https://www.linkedin.com/in/krithi-hari)
   - [Facebook](https://www.facebook.com/krithi.hari.37/)
   - [Instagram](https://www.instagram.com/_krithih/)
 
