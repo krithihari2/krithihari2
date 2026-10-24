@@ -20,8 +20,7 @@ I’d love to chat about health tech, economics, or any innovative ideas you mig
 
   Social Media 
   - [LinkedIn](https://www.linkedin.com/in/krithi-hari)
-  - [Facebook](https://www.facebook.com/krithi.hari.37/)
-  - [Instagram](https://www.instagram.com/_krithih/)
+  
 
 
 
