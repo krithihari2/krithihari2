@@ -5,6 +5,7 @@ Economics and Public Health (Honors) student at Drexel University, graduating Ju
 Seeking a Spring/Summer 2027 co-op in financial analysis, risk analysis, economic consulting or business analytics.
 
 **Experience:** Health Economics and Outcomes Research Co-op, Incyte Corporation
+
 **Tools:** SQL (DuckDB), Python (pandas, matplotlib), Tableau, Excel, EViews, Git, R (basic)
 
 ### Selected Projects
