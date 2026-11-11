@@ -16,12 +16,12 @@ Analyzed CMS data on 3,625 drugs to explain a $94.6B increase in Medicare Part D
  - SQL, Python, pandas
 
 **[Forecasting FTSE 100 Returns](https://github.com/krithihari2/ftse100-return-forecasting)**
-Tested whether U.S. equities, UK bond yields and GBP/USD help forecast FTSE 100 returns. Found a strong same-month link to U.S. markets and an inverse relationship between the pound and FTSE returns.
+Tested whether U.S. equities, UK bond yields and GBP/USD help forecast FTSE 100 returns. FTSE returns moved closely with U.S. markets and inversely with the pound in the same month, but past values had little forecasting power.
 
  - EViews, VAR, Granger causality, Excel
 
 **[Tableau Dashboards](https://github.com/krithihari2/starbucks-sales-dashboard)**
-Interactive dashboards visualizing healthcare and financial data.
+Interactive dashboards visualizing data.
 
  - Tableau
 
